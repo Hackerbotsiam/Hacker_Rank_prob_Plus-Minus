@@ -13,13 +13,6 @@ def plusMinus(arr):
     print(f"{ratio_negative:.6f}")
     print(f"{ratio_zero:.6f}")
 
-
-
-
-
-
-
-
 if __name__=="__main__":
     n=int(input()) # Enter the how many numbers you want
     arr=list(map(int,input().split())) # Enter the valus
